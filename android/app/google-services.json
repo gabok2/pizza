@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "629778613389",
+    "project_id": "pizzariak2-2801c",
+    "storage_bucket": "pizzariak2-2801c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629778613389:android:431ea3922910078380cec4",
+        "android_client_info": {
+          "package_name": "com.apppizzatestek2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629778613389-ie5kb4ldaq36otlph66of038ifq0bf9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apppizzatestek2",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "629778613389-r5snsppp82p3vnqugbg0riotc803mllg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhTBGAhhexqEeWmp-CHSi9S4JmBi7M0Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629778613389-r5snsppp82p3vnqugbg0riotc803mllg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
